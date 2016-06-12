@@ -63,3 +63,14 @@ d{motion}       delete text that {motion} moves over
 2dw         deletes 2 words
 5yy         copies 5 lines
 42G         go to line 42
+
+# quickcheat
+u         undo last change
+Ctrl-R    Redo changes which were undone (undo the undos)
+.         to repeat a previous change, at the current cursor position.
+v         char
+V         lines
+d         cut
+y         copy
+P         paste before
+p         paste after
